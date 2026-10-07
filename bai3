@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Chuc mừng ban da day bai3 len GitHub thanh cong!" << endl;
+    return 0;
+}
